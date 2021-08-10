@@ -31,4 +31,4 @@ window.requestAnimFrame = (function(){
           min.style.webkitTransform = "rotate(" + (m * 6) + "deg)";
       } 
   })();
-console.log('Copie... I mean, made by Dvd at June 14, 2021. 11:23 pm CDT test test')
+console.log('Copie... I mean, made by Isaac Abitey at August 10, 2021. 12:23 am GMT test test')
